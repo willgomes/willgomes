@@ -5,7 +5,7 @@ Sou desenvolvedor backend especializado em .NET/ASP.NET, com sólida experiênci
 Minha experiência abrange o ecossistema Microsoft Azure ☁️, incluindo serviços, produtos, bancos de dados relacionais (Azure SQL, MySQL 🗄️) e NoSQL (Key/Value, column-based, DocumentDB 📂). Possuo conhecimento em arquitetura cloud, aplicação de padrões como Retry, Circuit Breaker, Queue-Based Load Leveling, Cache-Aside e Pub/Sub, além de aplicação de padrões de resiliência em cloud. Também tenho prática com estruturas de dados, Git, Azure DevOps e pipelines de CI/CD 🚀.
 
 **Principais habilidades:**
-- ⚡ ASP.NET Core, .NET Core e C#
+- ⚡ ASP.NET, .NET, Blazor e C#
 - 🔗 Integração e desenvolvimento de APIs REST
 - 🗄️ SQL, Azure SQL, MySQL
 - 📂 Bancos NoSQL (Key/Value, column-based, DocumentDB)
@@ -26,7 +26,7 @@ I am a backend developer specialized in .NET/ASP.NET, with solid experience in C
 My experience covers the Microsoft Azure ecosystem ☁️, including services, products, relational databases (Azure SQL, MySQL 🗄️), and NoSQL databases (Key/Value, column-based, DocumentDB 📂). I have knowledge of cloud architecture and the application of patterns such as Retry, Circuit Breaker, Queue-Based Load Leveling, Cache-Aside, and Pub/Sub, as well as other cloud resilience patterns. I also have experience with data structures, Git, Azure DevOps, and CI/CD pipelines 🚀.
 
 **Key skills:**
-- ⚡ ASP.NET Core, .NET Core, and C#
+- ⚡ ASP.NET, .NET, Blazor and C#
 - 🔗 REST API integration and development
 - 🗄️ SQL, Azure SQL, MySQL
 - 📂 NoSQL databases (Key/Value, column-based, DocumentDB)
